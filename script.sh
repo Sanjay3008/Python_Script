@@ -1,7 +1,7 @@
 #!/bin/sh
 
-python  --version
+python3  --version
           
 cd python-git
 
-python test.py
+python3 test.py
